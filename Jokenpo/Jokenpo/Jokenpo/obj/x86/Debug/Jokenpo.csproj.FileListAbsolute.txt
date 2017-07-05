@@ -1,0 +1,11 @@
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Jokenpo.exe
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Jokenpo.pdb
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\obj\x86\Debug\Jokenpo.csprojResolveAssemblyReference.cache
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\obj\x86\Debug\Jokenpo.exe
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\obj\x86\Debug\Jokenpo.pdb
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\imagem0.xnb
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\imagem1.xnb
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\imagem2.xnb
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\SpriteFont1.xnb
+c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\SpriteFont2.xnb

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\imagem0.png</Source>
+      <Name>Textures\imagem0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\imagem0.xnb</Output>
+      <Time>2017-07-05T16:35:04.4401212-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\imagem1.png</Source>
+      <Name>Textures\imagem1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\imagem1.xnb</Output>
+      <Time>2017-07-05T16:35:04.4596758-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\imagem2.png</Source>
+      <Name>Textures\imagem2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\imagem2.xnb</Output>
+      <Time>2017-07-05T16:55:30.2366657-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SpriteFont1.spritefont</Source>
+      <Name>Textures\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\SpriteFont1.xnb</Output>
+      <Time>2017-07-05T17:30:47.9945245-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SpriteFont2.spritefont</Source>
+      <Name>Textures\SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\Textures\SpriteFont2.xnb</Output>
+      <Time>2017-07-05T17:50:34.8032601-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\JokenpoContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\JokenpoContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\guilh\documents\visual studio 2010\Projects\Jokenpo\Jokenpo\Jokenpo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-06-29T16:13:06.2212677-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

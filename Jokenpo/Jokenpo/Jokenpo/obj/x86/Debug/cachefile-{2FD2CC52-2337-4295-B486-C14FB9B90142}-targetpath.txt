@@ -1,0 +1,5 @@
+Content\Textures\imagem0.xnb
+Content\Textures\imagem1.xnb
+Content\Textures\imagem2.xnb
+Content\Textures\SpriteFont1.xnb
+Content\Textures\SpriteFont2.xnb
